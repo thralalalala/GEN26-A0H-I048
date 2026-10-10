@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I048
 ### Team Details
-#### **Team Name** <<BRAIN BYTES>> <br/>
+#### **Team Name** #BRAIN BYTES
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |  HOSTELLER/DAY SCHOLAR      |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:---------------------------:| 
